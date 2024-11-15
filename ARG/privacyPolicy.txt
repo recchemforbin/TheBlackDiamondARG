@@ -1,0 +1,55 @@
+The Black Diamond ARG Game Privacy Policy
+
+Effective Date: 11-14-2024
+1. Introduction
+
+Black Diamond ARG(the “Game”) is provided by [Ryan Freeman] (“we,” “us,” or “our”). This Privacy Policy explains how we collect, use, and protect your information when you access and play our Game. By participating, you agree to the terms outlined below.
+2. Information We Collect
+
+To ensure a secure and enjoyable gaming experience, we may collect and store the following information:
+a. Account Information:
+
+    Email Address: Used for login, account verification, and to reset your password if needed.
+    Username: Selected by you during registration for identification within the Game.
+
+b. Gameplay Data:
+
+    Progress and Activity: This includes tracking puzzle completion, achievements, and levels reached to personalize the game experience and allow you to resume progress.
+    Interactions: Any messages or interactions within the Game are monitored for compliance with our Terms of Service.
+
+c. Device and Usage Information:
+
+    IP Address: Used to enhance security and detect fraudulent activity.
+    Log Information: This includes the dates and times of your access to the Game.
+
+3. How We Use Your Information
+
+Your data is used for the following purposes:
+
+    Account Management: To authenticate and verify your login credentials.
+    Gameplay Customization: To save and maintain your in-game progress.
+    Security: To detect and prevent unauthorized access and ensure compliance with our Terms of Service.
+    Communication: To provide updates, respond to inquiries, and inform you of changes to our policies.
+
+4. Information Sharing
+
+We do not sell, trade, or otherwise transfer your information to outside parties. Your information may be shared only in the following circumstances:
+
+    Legal Compliance: If required by law or in response to a valid legal request, we may disclose your information to comply with applicable regulations.
+    Protecting Rights and Safety: If necessary to protect the rights, property, or safety of our users, we may disclose relevant information to enforcement authorities.
+
+5. Security of Your Information
+
+We take reasonable security measures to protect your data against unauthorized access, alteration, or destruction. These include encryption of sensitive information and limiting access to data to authorized personnel only.
+6. Your Rights and Choices
+
+You have the right to access, update, or delete your account information at any time. To do so, please contact us at [contact email]. Note that deleting your account will result in the permanent loss of gameplay data and progress.
+7. Children's Privacy
+
+Our Game is not intended for individuals under [required age, e.g., 13 years of age]. We do not knowingly collect or maintain information from children under this age without parental consent. If we become aware of any data collected from a child under this age, it will be promptly deleted.
+8. Changes to This Privacy Policy
+
+We reserve the right to update this Privacy Policy at any time. Any changes will be posted on this page with an updated Effective Date. Continued use of the Game following updates constitutes acceptance of the revised Privacy Policy.
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [contact email].

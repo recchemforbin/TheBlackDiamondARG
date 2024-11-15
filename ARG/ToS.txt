@@ -5,7 +5,7 @@ The Black Diamond Alternate Reality Game - Terms of Service
 Effective Date: [Insert Date]
 1. Acceptance of Terms
 
-Welcome to [Game Title] (the “Game”), an Alternate Reality Game (ARG) provided by [Your Company or Name] (“we,” “us,” or “our”). By accessing or playing the Game, you agree to these Terms of Service (“Terms”) and any guidelines, rules, or updates we may post. If you do not agree with these Terms, please do not use or participate in the Game.
+Welcome to Black Diamond ARG (the “Game”), an Alternate Reality Game (ARG) provided by Ryan Freeman(“we,” “us,” or “our”). By accessing or playing the Game, you agree to these Terms of Service (“Terms”) and any guidelines, rules, or updates we may post. If you do not agree with these Terms, please do not use or participate in the Game.
 2. Age Requirement
 
 By participating, you confirm that you are at least [required age, e.g., 18 years old], or you have obtained permission from a parent or guardian if under this age.
