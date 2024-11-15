@@ -1,0 +1,9 @@
+{
+    "8957713794249123": {
+        "attempts": 5,
+        "last_message_timestamp": "2024-11-14T11:06:13.921066",
+        "has_received_riddle": true,
+        "has_solved_riddle": true,
+        "current_level": 2
+    }
+}
